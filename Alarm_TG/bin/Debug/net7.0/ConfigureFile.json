@@ -1,0 +1,12 @@
+{
+  "ApiSettings": {
+    "StateId": "14",
+    "TokenAjax": "db3c12a1:9935f60bf7b521659a04550da5e65884",
+    "TokenTG": "7508898590:AAEfvnB6QEGkRBzRJft8jc0v_hQeYBdaT48",
+    "channelId": "-1002190913548",
+    "pathAlarm": "/Users/olehsavin/RiderProjects/Alarm_TG/Alarm_TG/bin/Photo/trivoga.jpg",
+    "pathAlarmResolve": "/Users/olehsavin/RiderProjects/Alarm_TG/Alarm_TG/bin/Photo/resolve.jpg",
+    "messageAlarmResolve": "\uD83D\uDFE2Відбій повітряної тривоги! Поліція Київщини дбає про безпеку громадян!",
+    "messageAlarm": "Увага‼️ На Київщині оголошено повітряну тривогу! \n\nШановні громадяни, не нехтуйте сигналами тривоги та негайно прямуйте в найближче укриття! Зберігайте спокій, будьте пильні, бережіть себе та своїх рідних!"
+  }
+}
